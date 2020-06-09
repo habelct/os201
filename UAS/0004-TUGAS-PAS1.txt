@@ -1,4 +1,4 @@
-Script started on Tue 09 Jun 2020 09:14:24 AM WIB
+Script started on Tue 09 Jun 2020 10:06:07 AM WIB
 habel.christiando@badak:~$ PS1="$ "
 $ echo $GitHubUser
 habelct
@@ -9,9 +9,9 @@ PS1="\$(eval \$PSTAMP)"
 echo -e $CEKSAYA
 echo -e $CEKSEBELA1
 echo -e $CEKSEBELA2
-exit200609-091443-2870-habel.christiando/>
+exit200609-100622-08cc-habel.christiando/>
 $ PS1="\$(eval \$PSTAMP)"
-200609-091443-2870-habel.christiando/> echo -e $CEKSAYA
+200609-100622-08cc-habel.christiando/> echo -e $CEKSAYA
 habelct ZCZCSCRIPTSTART 200531-232144 habelct
  habelct habelct 200531-232209-99c8-habel.christiando/ 200531-232209 SEQOK SUMOK 99c816dc
  habelct habelct 200531-232209-99c8-habel.christiando/ 200531-232209 SEQOK SUMOK 99c816dc
@@ -19,7 +19,7 @@ habelct ZCZCSCRIPTSTART 200531-232144 habelct
  habelct habelct 200531-232327-9ce5-habel.christiando/ 200531-232327 SEQOK SUMOK 99c816dc
  habelct ZCZCSCRIPTSTOP 200531-232345 SEQOK
 
-200609-091443-2870-habel.christiando/> echo -e $CEKSEBELA1
+200609-100622-08cc-habel.christiando/> echo -e $CEKSEBELA1
 habelct ZCZCSCRIPTSTART 200608-190458 hanardiansyah
  habelct hanardiansyah 200608-190527-b680-UAS/ 200608-190527 SEQOK SUMOK b6808847
  habelct hanardiansyah 200608-190536-a96e-UAS/ 200608-190536 SEQOK SUMOK a96e9855
@@ -27,15 +27,15 @@ habelct ZCZCSCRIPTSTART 200608-190458 hanardiansyah
  habelct hanardiansyah 200608-190557-1745-UAS/ 200608-190557 SEQOK SUMOK 17455aac
  habelct ZCZCSCRIPTSTOP 200608-190604 SEQOK
 
-200609-091443-2870-habel.christiando/> echo -e $CEKSEBELA2
-habelct ZCZCSCRIPTSTART 200530-151150 hanifah.rahmajati
+200609-100623-9491-habel.christiando/> echo -e $CEKSEBELA2
+habelct ZCZCSCRIPTSTART 200530-151150 hanifahrahma
  habelct hanifahrahma 200530-151207-cbdf-UAS/ 2200530-151207 SEQOK SUMOK cbdfdbd7
  habelct hanifahrahma 200530-151211-7ebe-UAS/ 200530-151211 SEQOK SUMOK 7ebed360
  habelct hanifahrahma 200530-151214-7e59-UAS/ 200530-151214 SEQOK SUMOK 7e590925
  habelct hanifahrahma 200530-151222-726f-UAS/ 200530-151222 SEQOK SUMOK 726fc30d
  habelct ZCZCSCRIPTSTOP 200530-151231 SEQOK
 
-200609-091443-2870-habel.christiando/> exit
+200609-100623-9491-habel.christiando/> exit
 exit
 
-Script done on Tue 09 Jun 2020 09:14:49 AM WIB
+Script done on Tue 09 Jun 2020 10:06:24 AM WIB

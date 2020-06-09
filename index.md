@@ -8,7 +8,7 @@
 
 <h2> Apa? <br> </h2>
 
-<p>  Github Pages untuk Kepentingan UAS Mata Kuliah Sistem Operasi <br> </p>
+<p>  <em> Github Pages </em> untuk Kepentingan UAS Mata Kuliah Sistem Operasi <br> </p>
 
 <h2> Mengapa? <br> </h2>
 

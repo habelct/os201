@@ -1,5 +1,6 @@
 <h1> Habel Christiando Tobing </h1>
 
+<img src="http://www.pngmart.com/files/7/Desktop-Computer-PNG-File.png" <br> \>
 <h2> Siapa? <br> </h2>
 
 <p> Mahasiswa Ilmu Komputer 2018 <br> </p>

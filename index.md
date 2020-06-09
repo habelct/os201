@@ -11,5 +11,7 @@
 <h2> Mengapa? <br> </h2>
 
 <p> Pemenuhan UAS Mata Kuliah Sistem Operasi <br> <p>
+  
+<h2> Seputar Sistem Operasi <br> </h2>
 
-<a href="https://habelct.github.io/os201/URLs/"> File untuk Pembelajaran Sistem Operasi </a>
+<a href="https://habelct.github.io/os201/URLs/"> Klik Disini </a>

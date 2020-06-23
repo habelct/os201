@@ -1,13 +1,13 @@
 Script started on Sun 31 May 2020 11:21:44 PM WIB
-habel.christiando@badak:~$ PS1="$ "
+]0;habel.christiando@badak: ~habel.christiando@badak:~$ PS1="$ "
 $ echo $GitHubUser
 habelct
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$
+$ 
 $ eval $PSTAMP
-PS1="\$(eval200531-232209-99c8-habel.christiando/>
-$
+PS1="\$(eval200531-232209-99c8-habel.christiando/> 
+$ 
 $ PS1="\$(eval \$PSTAMP)"
 200531-232209-99c8-habel.christiando/> date
 Sun May 31 23:23:16 WIB 2020
